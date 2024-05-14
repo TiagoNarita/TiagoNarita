@@ -6,6 +6,11 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNarita&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 </div>
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
