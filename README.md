@@ -8,7 +8,7 @@
 </div>
 </div>
 
-<img src="./settings/lineBar(1).png" width="100%" height="8px"/>
+<img src="settings/lineBar (1).png" width="100%" height="8px"/>
 
 <div><br />
 <div style="display: inline_block"><br>
