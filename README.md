@@ -1,10 +1,9 @@
 
 <img width=100% src="./settings/settingsInserir um título (3).png.png"/>
 
- <div>
-   <a href="https://github.com/TiagoNarita"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoNarita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNarita&layout=compact&langs_count=6&theme=tokyonight"/>
+ <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoNarita&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNarita&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 </div>
 <div style="display: inline_block"><br>
